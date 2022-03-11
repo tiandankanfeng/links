@@ -43,11 +43,10 @@ categories:
         logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
         url: https://dajiayouxuan.com/
         description: 万物之中希望最美，万物之中确定性最贵
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: Dennis - 技术 个人成长
+        logo: https://www.domon.cn/content/images/2021/03/xavatar_shiba.jpg.pagespeed.ic.ifanPcEFIW.webp
+        url: https://www.domon.cn/
+        description: 生活无法易如反掌，但可以细水长流。和我一同共同成长，成为想象中的人。
       - title: 好工具周刊
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/t/weekly
@@ -132,10 +131,10 @@ categories:
         logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
         url: https://dajiayouxuan.com/
         description: 万物之中希望最美，万物之中确定性最贵
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://jukebox.pipecraft.net/d/5
-        description: 快来交换友情链接吧
+      - title: Dennis - 技术 个人成长
+        logo: https://www.domon.cn/content/images/2021/03/xavatar_shiba.jpg.pagespeed.ic.ifanPcEFIW.webp
+        url: https://www.domon.cn/
+        description: 生活无法易如反掌，但可以细水长流。和我一同共同成长，成为想象中的人。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://jukebox.pipecraft.net/d/5
