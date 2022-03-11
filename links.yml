@@ -39,11 +39,10 @@ categories:
         url: https://discuss-cn.bestxtools.com/
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
         tags: 在线工具,周刊,社区
-      - title: P站问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+      - title: 李雪含
+        logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
+        url: https://dajiayouxuan.com/
+        description: 万物之中希望最美，万物之中确定性最贵
       - title: Pipecraft 社区
         logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
         url: https://discuss.cn.pipecraft.net/
@@ -129,10 +128,10 @@ categories:
         url: https://discuss-cn.bestxtools.com/t/weekly
         description: 《好工具周刊》发现并分享有趣，有创意，免费、好用的工具，每周四发布。支持邮箱订阅，微信订阅。
         tags: 在线工具,周刊,社区
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://jukebox.pipecraft.net/d/5
-        description: 快来交换友情链接吧
+      - title: 李雪含
+        logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
+        url: https://dajiayouxuan.com/
+        description: 万物之中希望最美，万物之中确定性最贵
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://jukebox.pipecraft.net/d/5
