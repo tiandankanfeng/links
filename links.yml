@@ -39,6 +39,10 @@ categories:
         url: https://discuss-cn.bestxtools.com/
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
         tags: 在线工具,周刊,社区
+      - title: 愿星光伴你左右
+        logo: https://images.weserv.nl/?url=http://shanks.link/img/favicon.ico&w=60&h=60
+        url: http://shanks.link/
+        description: "主要的内容: Golang, lua, os, redis"
       - title: 李雪含
         logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
         url: https://dajiayouxuan.com/
@@ -47,11 +51,6 @@ categories:
         logo: https://www.domon.cn/content/images/2021/03/xavatar_shiba.jpg.pagespeed.ic.ifanPcEFIW.webp
         url: https://www.domon.cn/
         description: 生活无法易如反掌，但可以细水长流。和我一同共同成长，成为想象中的人。
-      - title: 好工具周刊
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/t/weekly
-        description: 《好工具周刊》发现并分享有趣，有创意，免费、好用的工具，每周四发布。支持邮箱订阅，微信订阅。
-        tags: 在线工具,周刊,社区
 
   - category: 推荐
     hide_menu: true
@@ -85,15 +84,15 @@ categories:
         logo: https://www.ruanyifeng.com/favicon.ico
         url: https://www.ruanyifeng.com/blog/archives.html
         description: 科技爱好者周刊 - 记录每周值得分享的科技内容，周五发布。
+      - title: 愿星光伴你左右
+        logo: https://images.weserv.nl/?url=http://shanks.link/img/favicon.ico&w=60&h=60
+        url: http://shanks.link/
+        description: "主要的内容: Golang, lua, os, redis"
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://jukebox.pipecraft.net/d/5
         description: 快来交换友情链接吧
         tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://jukebox.pipecraft.net/d/5
-        description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://jukebox.pipecraft.net/d/5
