@@ -92,13 +92,13 @@ categories:
 #         url: https://jukebox.pipecraft.net/d/5
 #         description: 快来交换友情链接吧
 
-#   - category: 个人博客
-#     icon: linecons-doc
-#     links:
-#       - title: 好工具周刊
-#         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-#         url: https://discuss-cn.bestxtools.com/t/weekly
-#         description: 《好工具周刊》发现并分享有趣，有创意，免费、好用的工具，每周四发布。支持邮箱订阅，微信订阅。
+  - category: 个人博客
+    icon: linecons-doc
+    links:
+      - title: Wapriaily
+        logo: https://www.wapriaily.com/photo/wapriaily.jpg
+        url: https://www.wapriaily.com
+        description: 目之所及皆是回忆，心之所想皆是过往，眼之所看皆是遗憾。
 #         tags: 在线工具,周刊,社区
 #       - title: 等你来加➕
 #         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
