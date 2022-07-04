@@ -91,6 +91,18 @@ categories:
 #         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
 #         url: https://jukebox.pipecraft.net/d/5
 #         description: 快来交换友情链接吧
+  - category: 文艺
+    icon: linecons-doc
+    links:
+      - title: 孤斗
+        logo: https://d-d.design/gdLogo.png
+        url: https://d-d.design
+        description: 做自己，不隨波逐流，不妥協
+#         tags: 在线工具,周刊,社区
+#       - title: 等你来加➕
+#         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+#         url: https://jukebox.pipecraft.net/d/5
+#         description: 快来交换友情链接吧
 
   - category: 个人博客
     icon: linecons-doc
