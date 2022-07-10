@@ -158,3 +158,12 @@ categories:
         url: https://www.imlam.com/
         description: 先解決有沒有，後解決好不好。JUST DO IT.✔
 #         tags: 程序员,博客,社区
+
+  - category: 有意思
+    icon: linecons-doc
+    links:
+      - title: 北熙宝宝
+        logo: https://api.beixibaobao.com/img/blog/logo.jpg
+        url: https://blog.beixibaobao.com
+        description: 如果恋爱有颜色，那一定是纯白色！
+#         tags: 程序员,博客,社区
