@@ -64,14 +64,14 @@ categories:
 #         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
 #         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 工作&生活
-    icon: linecons-doc
-    links:
-      - title: 阅读·阅己
-        logo: https://pic.flypig.xyz/pic/flypig-avatar-150.png
-        url: https://theflypig.com
-        description: 逻辑只是工具，心地才是主宰！
-        tags: 生活，工作
+#   - category: 工作&生活
+#     icon: linecons-doc
+#     links:
+#       - title: 阅读·阅己
+#         logo: https://pic.flypig.xyz/pic/flypig-avatar-150.png
+#         url: https://theflypig.com
+#         description: 逻辑只是工具，心地才是主宰！
+#         tags: 生活，工作
 #   - category: 设计师博客
 #     icon: linecons-doc
 #     links:
@@ -167,3 +167,11 @@ categories:
         url: https://blog.beixibaobao.com
         description: 如果恋爱有颜色，那一定是纯白色！
 #         tags: 程序员,博客,社区
+  - category: 工作&生活
+    icon: linecons-doc
+    links:
+      - title: 阅读·阅己
+        logo: https://pic.flypig.xyz/pic/flypig-avatar-150.png
+        url: https://theflypig.com
+        description: 逻辑只是工具，心地才是主宰！
+        tags: 生活，工作
