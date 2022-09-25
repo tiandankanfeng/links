@@ -68,7 +68,7 @@ categories:
     icon: linecons-doc
     links:
       - title: 阅读·阅己
-        logo: flypig-avatar-150.png (150×150)
+        logo: https://pic.flypig.xyz/pic/flypig-avatar-150.png
         url: https://theflypig.com
         description: 逻辑只是工具，心地才是主宰！
         tags: 生活，工作
